@@ -78,9 +78,19 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Car Chassis Kit | Provides the frame, wheels, and motors for building the robotic car. Quantity: 1 | $39.99 | <a href="https://www.amazon.com/dp/B0DJ7BT1V5/"> Link </a> |
+| Screwdriver Kit | Used to assemble, tighten, and remove screws on the robot. Quantity: 1 | $5.94 | <a href="https://www.amazon.com/Small-Screwdriver-Set-Mini-Magnetic/dp/B08RYXKJW9/"> Link </a> |
+| Arduino Uno Clone | Controls the robot's motors, sensors, and other electronic components. Quantity: 1 | $14.98 | <a href="https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/"> Link </a> |
+| Electronics Kit | Contains jumper wires, resistors, LEDs, buttons, and other prototyping components. Quantity: 1 | $14.00 | <a href="https://www.amazon.com/Smraza-Electronics-Potentiometer-tie-Points-Breadboard/dp/B0B62RL725/"> Link </a> |
+| Breadboard Kit | Allows electronic circuits to be built and tested without soldering. Quantity: 1 | $8.79 | <a href="https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/"> Link </a> |
+| Arduino Nano 33 BLE Sense | A compact microcontroller with Bluetooth and built-in sensors for wireless control and data collection. Quantity: 1 | $39.70 | <a href="https://www.amazon.com/Arduino-Nano-Sense-headers-ABX00070/dp/B0BQHZ88WD/"> Link </a> |
+| Micro USB Cable | Connects compatible Arduino boards to a computer for programming and power. Quantity: 1 | $5.00 | <a href="https://www.amazon.com/Charging-Transfer-Android-Trustable-MYFON/dp/B098DW7485/"> Link </a> |
+| Accelerometer | Measures the robot's acceleration, movement, tilt, and impacts. Quantity: 1 | $9.00 | <a href="https://www.amazon.com/dp/B0D2TJVMNY/"> Link </a> |
+| HC-05 Bluetooth Module | Allows the robot to communicate wirelessly with another Bluetooth device. Quantity: 2 | $9.00 | <a href="https://www.amazon.com/DSD-TECH-HC-05-Pass-through-Communication/dp/B01G9KSAF6/"> Link </a> |
+| Breadboard Power Supply | Supplies regulated power to components connected to the breadboard. Quantity: 1 | $8.00 | <a href="https://www.amazon.com/ALAMSCN-Solderless-Breadboard-Battery-Arduino/dp/B08JYPMCZY/"> Link </a> |
+| 9V Batteries | Provide portable electrical power for testing or operating the circuit. Quantity: 1 pack | $8.69 | <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/"> Link </a> |
+| Velcro Tape | Secures electronic components, batteries, and wires to the chassis. Quantity: 1 | $8.00 | <a href="https://www.amazon.com/Art3d-Sticky-Double-Sided-Command-Adhesive/dp/B0B58FGF8H/"> Link </a> |
+| Digital Multimeter (DMM) | Measures voltage, current, resistance, and checks electrical connections. Quantity: 1 | $9.99 | <a href="https://www.amazon.com/dp/B0CXM242J1/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
