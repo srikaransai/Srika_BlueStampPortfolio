@@ -43,8 +43,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="873" height="505" src="https://www.youtube.com/embed/j5-xCwY42b8" title="Srikaran S. Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  Right now i have completed my first milestone which was to complete the car chassis. The car chassis consists of 4 motors, a motor driver, two metal plates, a battery pack, 4 wheels, and an Arduino Uno. Basically the Ariduno will send the code to the motor driver which then will execute the 4 motors to work properly. Right now, with my car chassis completed, I started testing all the motors to see if they work. They all worked perfectly! Some challenges I face right now are definatly the bluetooth side of things. It is very difficult for me to understand right now, so i have to learn a lot. Moving forward, my focus is now on the blutooth module which will probably be the hardest part of the entire project, but I am excited to learn more about it.
 
