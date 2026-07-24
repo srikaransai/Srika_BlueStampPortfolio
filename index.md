@@ -1,4 +1,4 @@
-# Project Name Here
+# Gesture controlled robot
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
@@ -47,11 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+ Right now i have completed my first milestone which was to complete the car chassis. The car chassis consists of 4 motors, a motor driver, two metal plates, a battery pack, 4 wheels, and an Arduino Uno. Basically the Ariduno will send the code to the motor driver which then will execute the 4 motors to work properly. Right now, with my car chassis completed, I started testing all the motors to see if they work. They all worked perfectly! Some challenges I face right now are definatly the bluetooth side of things. It is very difficult for me to understand right now, so i have to learn a lot. Moving forward, my focus is now on the blutooth module which will probably be the hardest part of the entire project, but I am excited to learn more about it.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
