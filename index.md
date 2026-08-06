@@ -13,15 +13,16 @@ I built a gesture-controlled robot that moves forward, backward, left, and right
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
+<iframe width="320" height="576" src="https://www.youtube.com/embed/3eiIRPdu9g4" title="Srikaran S. Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+For my final milestone, I successfully completed a gesture-controlled robot that can move forward, backward, left, and right based on the movements of my hand. Since my previous milestone, I finished connecting and programming the two Bluetooth modules, tested all four motors, and used the accelerometer in the hand controller to detect different gestures. I also improved the code so that the robot responds more consistently and does not repeatedly send commands when my hand remains in the same position.
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+One of my biggest challenges at BSE was getting the Bluetooth modules to communicate correctly. At first, the modules would not enter AT mode or send data properly, so I had to carefully check the wiring, baud rates, and code. Another challenge was adjusting the accelerometer thresholds so that the robot would recognize intentional gestures without moving accidentally. My biggest triumph was seeing the robot move for the first time using only my hand movements. It was rewarding because it showed that the mechanical, electrical, and programming parts of the project were finally working together.
+
+Throughout this project, I learned about Arduino programming, Bluetooth communication, accelerometers, motor drivers, circuits, debugging, and the engineering design process. I also learned that building a working prototype requires patience and repeated testing. When something did not work, I had to isolate the problem, test each component individually, and make changes based on the results.
+
+In the future, I hope to learn more about robotics, electrical engineering, and wireless communication. I would like to improve the robot by making its movements smoother, increasing its range, and designing a smaller and more comfortable hand controller. I am also interested in adding more advanced features, such as speed control, obstacle detection, or machine learning that could recognize more complex gestures. Everything I learned at BSE has given me a stronger foundation for creating more advanced engineering projects in the future.
 
 
 
