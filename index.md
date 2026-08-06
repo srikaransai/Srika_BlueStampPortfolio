@@ -16,6 +16,7 @@ I built a gesture-controlled robot that moves forward, backward, left, and right
 
 <iframe width="320" height="576" src="https://www.youtube.com/embed/3eiIRPdu9g4" title="Srikaran S. Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 For my final milestone, I successfully completed a gesture-controlled robot that can move forward, backward, left, and right based on the movements of my hand. Since my previous milestone, I finished connecting and programming the two Bluetooth modules, tested all four motors, and used the accelerometer in the hand controller to detect different gestures. I also improved the code so that the robot responds more consistently and does not repeatedly send commands when my hand remains in the same position.
 
 One of my biggest challenges at BSE was getting the Bluetooth modules to communicate correctly. At first, the modules would not enter AT mode or send data properly, so I had to carefully check the wiring, baud rates, and code. Another challenge was adjusting the accelerometer thresholds so that the robot would recognize intentional gestures without moving accidentally. My biggest triumph was seeing the robot move for the first time using only my hand movements. It was rewarding because it showed that the mechanical, electrical, and programming parts of the project were finally working together.
