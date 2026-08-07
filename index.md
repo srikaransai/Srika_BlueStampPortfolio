@@ -9,7 +9,7 @@ I built a gesture-controlled robot that moves forward, backward, left, and right
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+https://mail.google.com/mail/u/1?ui=2&ik=9c7a91ac33&attid=0.1&permmsgid=msg-a:r9174024555276871091&th=19fddb687d979e17&view=fimg&fur=ip&permmsgid=msg-a:r9174024555276871091&sz=s0-l75-ft&attbid=ANGjdJ8i1fodVA9C6aptSEKoFugTvVsHMSdWNJSEtFMUOPnFh5eIMHeUNQDf6en3AT247-oMJN5XquTW4yHOTsAYLqQkbo6GWLWVwD9xtDe_mS_Ou6iHCm0-GwrExqo&disp=emb&realattid=ii_19fddb67d6c1ca915f11&zw
   
 # Final Milestone
 
