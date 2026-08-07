@@ -8,7 +8,11 @@ I built a gesture-controlled robot that moves forward, backward, left, and right
 | Srikaran S | Eastside preperatory school | Electrical Engineering | Incoming Junior
 
 
-<img width="2316" height="3088" alt="unnamed" src="https://github.com/user-attachments/assets/82fbf2af-b5b4-4775-9e95-8d81c8005bb0" />
+<img
+  src="https://github.com/user-attachments/assets/82fbf2af-b5b4-4775-9e95-8d81c8005bb0"
+  alt="Gesture Controlled Robot"
+  style="width: 600px; max-width: 100%; height: auto; display: block; margin: auto;"
+>
 
   
 # Final Milestone
@@ -48,7 +52,6 @@ In the future, I hope to learn more about robotics, electrical engineering, and 
 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 #include <Arduino_BMI270_BMM150.h>
