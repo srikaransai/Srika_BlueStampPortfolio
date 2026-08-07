@@ -7,8 +7,8 @@ I built a gesture-controlled robot that moves forward, backward, left, and right
 |:--:|:--:|:--:|:--:|
 | Srikaran S | Eastside preperatory school | Electrical Engineering | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
+<img width="2316" height="3088" alt="unnamed" src="https://github.com/user-attachments/assets/82fbf2af-b5b4-4775-9e95-8d81c8005bb0" />
 
   
 # Final Milestone
