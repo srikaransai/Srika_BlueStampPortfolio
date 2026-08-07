@@ -44,7 +44,8 @@ In the future, I hope to learn more about robotics, electrical engineering, and 
  Right now i have completed my first milestone which was to complete the car chassis. The car chassis consists of 4 motors, a motor driver, two metal plates, a battery pack, 4 wheels, and an Arduino Uno. Basically the Ariduno will send the code to the motor driver which then will execute the 4 motors to work properly. Right now, with my car chassis completed, I started testing all the motors to see if they work. They all worked perfectly! Some challenges I face right now are definatly the bluetooth side of things. It is very difficult for me to understand right now, so i have to learn a lot. Moving forward, my focus is now on the blutooth module which will probably be the hardest part of the entire project, but I am excited to learn more about it.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<img width="1193" height="899" alt="image" src="https://github.com/user-attachments/assets/0bf4efa6-bc79-4ff0-b662-8afd92802c30" />
+
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
@@ -146,6 +147,7 @@ void Read_accelerometer() {
 }
 ```
 
+
 # Bill of Materials
 
 
@@ -165,3 +167,5 @@ void Read_accelerometer() {
 | Velcro Tape | Secures electronic components, batteries, and wires to the chassis. Quantity: 1 | $8.00 | <a href="https://www.amazon.com/Art3d-Sticky-Double-Sided-Command-Adhesive/dp/B0B58FGF8H/"> Link </a> |
 | Digital Multimeter (DMM) | Measures voltage, current, resistance, and checks electrical connections. Quantity: 1 | $9.99 | <a href="https://www.amazon.com/dp/B0CXM242J1/"> Link </a> |
 
+# Sources used
+https://www.hackster.io/embeddedlab786/hand-gesture-control-robot-via-bluetooth-94b13d
